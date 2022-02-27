@@ -8,9 +8,6 @@ A sample for the christmas greetings has been demonstrated in the code.
 You can send automated messages of your choice.
 :smile:
 
-## Clone the Repo
-https://github.com/Jatin-8898/whatsapp-broadcast.git
-
 ## Instructions :blue_book:
 
 ### Export the Contacts
